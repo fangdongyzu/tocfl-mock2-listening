@@ -1,4 +1,4 @@
-const quizData = [
+window.quizData = [
   { "id": 1, "part": 1, "question": "", "audio": "sounds/1-01.mp3", "image": "images/01.png", "transcript": "爸爸正在做什麼？\n(A) 他正在看報紙\n(B) 他正在洗杯子\n(C) 他正在穿衣服", "options": ["(A)", "(B)", "(C)"], "answer": "A", "remark": "" },
   { "id": 2, "part": 1, "question": "", "audio": "sounds/1-02.mp3", "image": "images/02.png", "transcript": "這間屋子裡有什麼？\n(A) 電視機\n(B) 洗衣機\n(C) 冷氣機", "options": ["(A)", "(B)", "(C)"], "answer": "C", "remark": "" },
   { "id": 3, "part": 1, "question": "", "audio": "sounds/1-03.mp3", "image": "images/03.png", "transcript": "弟弟怎麼去書店？\n(A) 他坐火車去\n(B) 他坐公車去\n(C) 他坐計程車去", "options": ["(A)", "(B)", "(C)"], "answer": "B", "remark": "" },
